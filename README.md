@@ -4,8 +4,11 @@ Software Engineer, Delivery & Operations Lead with strong experience across soft
 Core Strengths:
 
 • Software Engineering, System Architecture, Backend Services, APIs, Integrations, Automation, Enterprise Platforms
-• Distributed Systems, Scalable Systems, Microservices, Production Systems, Solution Design, Technical Architecture
-• Technical Program Management, Solution Design, AI Systems, LLMs, RAG, AI Agents, AI Governance
-• Engineering Operations, Delivery Governance, SDLC Governance, Agile & Scrum, Sprint Planning, Release Management
-• Cross-functional Leadership, Resource Planning, Risk & Dependency Management, Delivery KPIs & SLAs
 
+•Distributed Systems, Scalable Systems, Microservices, Production Systems, Solution Design, Technical Architecture
+
+• Technical Program Management, Solution Design, AI Systems, LLMs, RAG, AI Agents, AI Governance
+
+• Engineering Operations, Delivery Governance, SDLC Governance, Agile & Scrum, Sprint Planning, Release Management
+
+• Cross-functional Leadership, Resource Planning, Risk & Dependency Management, Delivery KPIs & SLAs
